@@ -1,7 +1,7 @@
 {
   "name": "bot music repo",
   "description": "Open Source bot to stream media trough Telegram Voice Chat",
-  "repository": "https://github.com/fjgaming212/Bot-Music",
+  "repository": "https://github.co/Zeenada/z-Music",
   "stack": "container",
   "env": {
     "API_ID": {
